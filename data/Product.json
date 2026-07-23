@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "iPhone 16",
+      "price": "$999",
+      "image": "http://localhost:3000/images/iphone16.jpg"
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "$120",
+      "image": "http://localhost:3000/images/Applewatch.jpg"
+    },
+    {
+      "name": "Apple Watch",
+      "price": "$399",
+      "image": "http://localhost:3000/images/Applewatch.jpg"
+    }
+  ]
+}
